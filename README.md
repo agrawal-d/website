@@ -2,7 +2,6 @@
 
 
 <p align="justify">
-  Lorem ipsum
 ![Image of Yaktocat](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
 </p>
 
