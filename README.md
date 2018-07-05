@@ -7,4 +7,4 @@ A live version is available at http://www.coderdx.ml/ or simply search for this 
 
 # Feedback
 
-Send feedback to divyanshu123@hotmail.com.
+Send feedback to contact@coderdx.ml ( YUP ! It works :-) )
